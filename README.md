@@ -9,7 +9,7 @@ Building **secure**, **high-performance**, and **modern software** across system
 
 - **Senior Software Developer** with extensive experience in multiple languages and paradigms  
 - Focused on **security-first development** and performant code  
-- Strong contributor to open source projects, including **uutils-coreutils** — a cross-platform Rust reimplementation of GNU core utilities :contentReference[oaicite:0]{index=0}
+- Strong contributor to open source projects, including  a cross-platform Rust reimplementation of GNU core utilities
 
 ---
 
@@ -31,7 +31,7 @@ Building **secure**, **high-performance**, and **modern software** across system
 
 ## 📦 Open Source Work
 
-- Active contributor to **uutils-coreutils**, a community-driven project to modernize core utilities in Rust with cross-platform compatibility :contentReference[oaicite:1]{index=1}
+- Active contributor to [uutils/coreutils](https://github.com/uutils/coreutils) — a cross-platform Rust rewrite of the GNU coreutils.
 - Developed and maintained libraries and tools that demonstrate real-world secure and high-quality engineering practices
 
 ---
@@ -42,16 +42,4 @@ Building **secure**, **high-performance**, and **modern software** across system
 - **Command-line tools & utilities**  
 - **Cross-platform systems software**  
 - **Modern backend services**
-
----
-
-## 🤝 Let’s Collaborate
-
-Open to:
-- Collaboration on open source and secure infrastructure projects
-- Mentorship and community engagement
-- Technical discussions and consulting
-
-📫 **Get in touch:**  
-Feel free to reach out via GitHub or email!
 

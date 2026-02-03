@@ -5,7 +5,7 @@ Building **secure**, **high-performance**, and **modern software** across system
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - **Senior Software Developer** with extensive experience in multiple languages and paradigms  
 - Focused on **security-first development** and performant code  
@@ -13,7 +13,7 @@ Building **secure**, **high-performance**, and **modern software** across system
 
 ---
 
-## 🛠️ Expertise
+## Expertise
 
 ### 🔹 Primary Languages
 - **.NET / C#** — backend systems, libraries, frameworks
@@ -29,14 +29,14 @@ Building **secure**, **high-performance**, and **modern software** across system
 
 ---
 
-## 📦 Open Source Work
+## Open Source Work
 
 - Active contributor to [uutils/coreutils](https://github.com/uutils/coreutils) — a cross-platform Rust rewrite of the GNU coreutils.
 - Developed and maintained libraries and tools that demonstrate real-world secure and high-quality engineering practices
 
 ---
 
-## 📈 What I Build
+## What I Build
 
 - **Secure libraries** & cryptographic tools  
 - **Command-line tools & utilities**  

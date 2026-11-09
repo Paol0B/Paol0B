@@ -4,7 +4,9 @@ Senior software developer. I mostly write C#/.NET, Rust and Kotlin, plus some C 
 
 ## Upstream contributions
 
-- **Linux kernel**: [ublk: hold RCU read lock in ublk_try_buf_match()](https://github.com/torvalds/linux/commit/aaf49023041b), fix for a syzbot report, merged for 7.4
+- **Linux kernel**:
+  - [perf: fix PERF_EVENT_IOC_REFRESH for tracepoints and breakpoints](https://lore.kernel.org/all/20261103130732.764081-1-paolobertinetti200f4@proton.me/), regression since 6.17 that broke async-profiler; 2 patches applied by Peter Zijlstra to tip perf/urgent, tagged for stable
+  - [ublk: hold RCU read lock in ublk_try_buf_match()](https://github.com/torvalds/linux/commit/aaf49023041b), fix for a syzbot report, merged for 7.4
 - **uutils/coreutils**: [comm: fix stdout handling for lossy UTF-8 output](https://github.com/uutils/coreutils/pull/10206), [sort: add locale-based collation](https://github.com/uutils/coreutils/pull/10481)
 
 ## Projects
